@@ -1,0 +1,6 @@
+This document contains information that the assumptions that are made during the development of the script to simplify implementation. 
+
+We assume that
+
+1. The scope of the model is limited to rectangular license plates.
+2. The background of the license plate is light while the foreground (characters) on the plate are dark in colour. 
